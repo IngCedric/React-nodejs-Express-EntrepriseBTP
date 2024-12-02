@@ -1,0 +1,26 @@
+[
+  {
+      "id": 1,
+      "titre": "Résidence Les Jardins",
+      "description": "Située dans un quartier paisible et verdoyant, la Résidence Les Jardins offre 40 appartements modernes pensés pour le confort et la qualité de vie. Avec des espaces lumineux, des finitions haut de gamme et des équipements contemporains, ce projet résidentiel s’intègre parfaitement dans son environnement. Lancée en 2023, cette résidence se distingue par sa proximité aux transports en commun et ses espaces verts communs, répondant aux attentes d’une clientèle en quête de sérénité et de praticité.",
+      "image": "http://localhost:3001/images/jardin.jpg",
+      "annee": "2023",
+      "type": "Résidentiel"
+  },
+  {
+      "id": 2,
+      "titre": "Centre Commercial Grand Place",
+      "description": "Le Centre Commercial Grand Place est un projet ambitieux achevé en 2022, offrant un espace dynamique pour le commerce et les loisirs. Conçu pour répondre aux besoins d’une clientèle variée, il regroupe des boutiques, des restaurants et des espaces de détente dans un cadre moderne et spacieux. Situé au cœur d’une zone urbaine stratégique, ce centre joue un rôle essentiel dans le développement économique local tout en offrant une expérience de shopping agréable et accessible.",
+      "image": "http://localhost:3001/images/maintenance.jpg",
+      "annee": "2023",
+      "type": "Commercial"
+  },
+  {
+      "id": 3,
+      "titre": "École Primaire Jean Moulin",
+      "description": "L’École Primaire Jean Moulin, inaugurée en 2022, est un établissement moderne dédié à l’éducation des jeunes générations. Conçue pour favoriser un apprentissage optimal, l’école dispose de salles de classe spacieuses et bien équipées, d’espaces extérieurs sécurisés et de zones dédiées aux activités pédagogiques et récréatives. Ce projet public illustre l’engagement pour un avenir éducatif de qualité, offrant un cadre stimulant et accueillant pour les élèves, enseignants et parents.",
+      "image": "http://localhost:3001/images/ecole.jpg",
+      "annee": "2024",
+      "type": "Public"
+  }
+]

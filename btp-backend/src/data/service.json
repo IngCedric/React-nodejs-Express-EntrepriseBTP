@@ -1,0 +1,26 @@
+[
+  {
+    "icon": "faHome",
+    "title": "Construction Résidentielle",
+    "text": "Nous réalisons vos projets de construction résidentielle avec expertise et attention aux détails.",
+    "delay": 0
+  },
+  {
+    "icon": "faBuilding",
+    "title": "Construction Commerciale",
+    "text": "Des solutions sur mesure pour vos projets commerciaux, du concept à la réalisation.",
+    "delay": 0.2
+  },
+  {
+    "icon": "faTools",
+    "title": "Rénovation",
+    "text": "Transformez votre espace existant avec nos services de rénovation professionnels.",
+    "delay": 0.4
+  },
+  {
+    "icon": "faPencilRuler",
+    "title": "Conception et Design",
+    "text": "Une équipe créative pour donner vie à vos idées et créer des espaces uniques.",
+    "delay": 0.6
+  }
+]
